@@ -1,9 +1,9 @@
 # ECE448
 UIUC Grainger Engineering ECE 448(CS 440) - Artificial Intellegence
 
-# AI Programming Course Project
+# AI Programming Course
 
-This repository contains the code I developed as part of the ECE448 course at the University of Illinois at Urbana-Champaign. The code is intended for educational purposes and reflects my learning experience throughout the course.
+This repository contains the code I developed in the ECE448 course at the University of Illinois at Urbana-Champaign. The code is intended for educational purposes and reflects my learning experience throughout the course.
 
 ## Licensing Information
 
